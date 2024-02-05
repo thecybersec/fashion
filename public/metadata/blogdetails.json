@@ -1,0 +1,19 @@
+{
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/favicon.png",
+  "url": "https://spicywhips.com",
+  "canonical": "SpicyWhips.com",
+
+  "facebook": {
+    "url": "https://spicywhips.com",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "url": "https://spicywhips.com",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

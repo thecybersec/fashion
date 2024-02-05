@@ -1,0 +1,27 @@
+{
+  "title": "Search Trendy Clothes Online - Latest Fashion Collection | SpicyWhips",
+  "description": "Discover the latest collection of trendy clothes online at SpicyWhips. From casual wear to party outfits, we have everything you need to revamp your wardrobe. ",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/search/?q=all",
+  "canonical": "SpicyWhips.com/search/?q=",
+
+  "facebook": {
+    "title": "Search Trendy Clothes Online - Latest Fashion Collection | SpicyWhips",
+    "description": "Discover the latest collection of trendy clothes online at SpicyWhips. From casual wear to party outfits, we have everything you need to revamp your wardrobe.",
+    "url": "https://spicywhips.com/search/?q=",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Search Trendy Clothes Online - Latest Fashion Collection | SpicyWhips",
+    "description": "Discover the latest collection of trendy clothes online at SpicyWhips. From casual wear to party outfits, we have everything you need to revamp your wardrobe.",
+    "url": "https://spicywhips.com/search/?q=",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

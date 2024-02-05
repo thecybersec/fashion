@@ -1,0 +1,27 @@
+{
+  "title": "Cart | SpicyWhips",
+  "description": "SpicyWhips Cart. Checkout Now.",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/cart",
+  "canonical": "SpicyWhips.com/cart",
+
+  "facebook": {
+    "title": "Cart | SpicyWhips",
+    "description": "SpicyWhips Cart. Checkout Now.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/cart",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Cart | SpicyWhips",
+    "description": "SpicyWhips Cart. Checkout Now.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/cart",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

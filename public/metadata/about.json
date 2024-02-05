@@ -1,0 +1,27 @@
+{
+  "title": "Stay on Top of the Latest T-Shirt Fashion Trends | Spicy Whips",
+  "description": "Stay cool and stylish this summer. Find the best looking t shirts—the perfect design to match your style and enjoy the comfort of high-quality fabrics.",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/about",
+  "canonical": "SpicyWhips.com",
+
+  "facebook": {
+    "title": "Stay on Top of the Latest T-Shirt Fashion Trends | Spicy Whips",
+    "description": "Stay cool and stylish this summer. Find the best looking t shirts—the perfect design to match your style and enjoy the comfort of high-quality fabrics.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/about",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Stay on Top of the Latest T-Shirt Fashion Trends | Spicy Whips",
+    "description": "Stay cool and stylish this summer. Find the best looking t shirts—the perfect design to match your style and enjoy the comfort of high-quality fabrics.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/about",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

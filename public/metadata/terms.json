@@ -1,0 +1,27 @@
+{
+  "title": "Terms & Condition | SpicyWhips",
+  "description": "Real All Terms & Conditions of SpicyWhips",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/terms-conditions",
+  "canonical": "SpicyWhips.com/terms-conditions",
+
+  "facebook": {
+    "title": "Terms & Condition | SpicyWhips",
+    "description": "Real All Terms & Conditions of SpicyWhips",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/terms-conditions",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Terms & Condition | SpicyWhips",
+    "description": "Real All Terms & Conditions of SpicyWhips",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/terms-conditions",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

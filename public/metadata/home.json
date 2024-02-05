@@ -1,0 +1,27 @@
+{
+  "title": "Find Your Style with the Best T Shirt Design Brand | Spicy Whips",
+  "description": "Discover the new trending t shirts design collection on Spicy Whips. From trendy to classic, find your perfect style and make a statement Shop now for a high-quality T-shirt.",
+  "keywords": "best t shirts, best t shirt design, new trending t shirts",
+  "image": "https://spicywhips.com/images/favicon.png",
+  "url": "https://spicywhips.com",
+  "canonical": "SpicyWhips.com",
+
+  "facebook": {
+    "title": "Find Your Style with the Best T Shirt Design Brand | Spicy Whips",
+    "description": "Discover the new trending t shirts design collection on Spicy Whips. From trendy to classic, find your perfect style and make a statement Shop now for a high-quality T-shirt.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Find Your Style with the Best T Shirt Design Brand | Spicy Whips",
+    "description": "Discover the new trending t shirts design collection on Spicy Whips. From trendy to classic, find your perfect style and make a statement Shop now for a high-quality T-shirt.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

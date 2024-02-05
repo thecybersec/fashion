@@ -1,0 +1,27 @@
+{
+  "title": "Spicy Whips: Stay Up-to-Date with the Latest Trends | Blog",
+  "description": "Stay up-to-date with the latest fashion news and trends with Spicy Whips' blog. Our expert writers have unique perspectives on the latest styles and designs. ",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/blog",
+  "canonical": "SpicyWhips.com/blog",
+
+  "facebook": {
+    "title": "Spicy Whips: Stay Up-to-Date with the Latest Trends | Blog",
+    "description": "Stay up-to-date with the latest fashion news and trends with Spicy Whips' blog. Our expert writers have unique perspectives on the latest styles and designs. ",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/blog",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Spicy Whips: Stay Up-to-Date with the Latest Trends | Blog",
+    "description": "Stay up-to-date with the latest fashion news and trends with Spicy Whips' blog. Our expert writers have unique perspectives on the latest styles and designs. ",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/blog",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

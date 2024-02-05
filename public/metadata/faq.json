@@ -1,0 +1,27 @@
+{
+  "title": "Faqs | SpicyWhips",
+  "description": "Real all frequently asked questions regarding fashion & clothing at SpicyWhips!",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/faq",
+  "canonical": "SpicyWhips.com/faq",
+
+  "facebook": {
+    "title": "Faqs | SpicyWhips",
+    "description": "Real all frequently asked questions regarding fashion & clothing at SpicyWhips",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/faq",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Faqs | SpicyWhips",
+    "description": "Real all frequently asked questions regarding fashion & clothing at SpicyWhips",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/faq",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

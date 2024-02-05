@@ -1,0 +1,48 @@
+{
+  "name": "SpicyWhips",
+  "version": "1.0.0",
+  "description": "SpicyWhips",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "thecybertize",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "custom-react-inner-image-zoom": "^3.0.6",
+    "moment": "^2.29.4",
+    "next": "^12.0.7",
+    "nodemailer": "^6.7.2",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "react": "^17.0.2",
+    "react-accessible-accordion": "^4.0.0",
+    "react-bootstrap": "^2.6.0",
+    "react-dom": "^17.0.2",
+    "react-html-parser": "^2.0.2",
+    "react-icons": "^4.6.0",
+    "react-image-lightbox": "^5.1.4",
+    "react-lazy-load-image-component": "^1.5.6",
+    "react-loading-skeleton": "^3.1.1",
+    "react-lottie": "^1.2.3",
+    "react-owl-carousel3": "^2.2.5",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^8.0.4",
+    "react-tabs": "^3.2.3",
+    "react-toastify": "^9.0.8",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.45.1",
+    "sweetalert2": "^11.3.0",
+    "sweetalert2-react-content": "^4.2.0",
+    "universal-cookie": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0"
+  }
+}

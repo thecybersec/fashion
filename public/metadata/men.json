@@ -1,0 +1,27 @@
+{
+  "title": "Buy Men’s Fashion Clothing Online | SpicyWhips",
+  "description": "Need tailored solution for your fashion sense, we’ve got you covered.Discover a wide range of collections for Men’s Fashion Store. Great pricing, premium fabric, catchy designs.",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com",
+  "canonical": "SpicyWhips.com",
+
+  "facebook": {
+    "title": "Buy Men’s Fashion Clothing Online | SpicyWhips",
+    "description": "Need tailored solution for your fashion sense, we’ve got you covered.Discover a wide range of collections for Men’s Fashion Store. Great pricing, premium fabric, catchy designs.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/Men",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Buy Men’s Fashion Clothing Online | SpicyWhips",
+    "description": "Need tailored solution for your fashion sense, we’ve got you covered.Discover a wide range of collections for Men’s Fashion Store. Great pricing, premium fabric, catchy designs.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/Men",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

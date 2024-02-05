@@ -1,0 +1,27 @@
+{
+  "title": "Contact Us at Spicy Whips for Any Questions or Inquiries",
+  "description": "Get in touch with Spicy Whips for any questions or inquiries. Our support team is here to assist you with your purchase, product information, or any other concerns.",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/contact",
+  "canonical": "SpicyWhips.com/contact",
+
+  "facebook": {
+    "title": "Contact Us at Spicy Whips for Any Questions or Inquiries",
+    "description": "Get in touch with Spicy Whips for any questions or inquiries. Our support team is here to assist you with your purchase, product information, or any other concerns.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/contact",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Contact Us at Spicy Whips for Any Questions or Inquiries",
+    "description": "Get in touch with Spicy Whips for any questions or inquiries. Our support team is here to assist you with your purchase, product information, or any other concerns.",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "url": "https://spicywhips.com/contact",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

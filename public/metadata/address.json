@@ -1,0 +1,27 @@
+{
+  "title": "Manage Address | SpicyWhips",
+  "description": "Manage Delivery address.",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/privacy-policy",
+  "canonical": "SpicyWhips.com",
+
+  "facebook": {
+    "title": "Manage Address | SpicyWhips",
+    "description": "Manage Delivery address.",
+    "url": "https://spicywhips.com/privacy-policy",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Manage Address | SpicyWhips",
+    "description": "Manage Delivery address.",
+    "url": "https://spicywhips.com/privacy-policy",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}

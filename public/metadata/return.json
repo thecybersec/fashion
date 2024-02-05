@@ -1,0 +1,27 @@
+{
+  "title": "Return Policy | SpicyWhips",
+  "description": "Read Return Policy Related to SpicyWhips Orders",
+  "keywords": "Online Shopping,online Shopping store,Online Shopping Site,Buy Online,Shop Online,Online Shopping,SpicyWhips",
+  "image": "https://spicywhips.com/images/logo.webp",
+  "url": "https://spicywhips.com/delivery-returns",
+  "canonical": "SpicyWhips.com/delivery-returns",
+
+  "facebook": {
+    "title": "Return Policy | SpicyWhips",
+    "description": "Read Return Policy Related to SpicyWhips Orders",
+    "url": "https://spicywhips.com/delivery-returns",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "type": "website",
+    "site_name": "SpicyWhips.com"
+  },
+
+  "twitter": {
+    "title": "Return Policy | SpicyWhips",
+    "description": "Read Return Policy Related to SpicyWhips Orders",
+    "url": "https://spicywhips.com/delivery-returns",
+    "image": "https://spicywhips.com/images/logo.webp",
+    "card": "summary_large_image",
+    "site": "@your-twitter-username",
+    "creator": "@your-twitter-username"
+  }
+}
